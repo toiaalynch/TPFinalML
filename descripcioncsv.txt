@@ -54,6 +54,3 @@ Para construir la base de datos, se generaron polígonos de 200m x 200m, y cada 
 
 
 
-LIMPIEZA
-
-1. Id Grind = No se modifico. LISTO
